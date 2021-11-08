@@ -26,7 +26,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=mario.jpg time=500]
 
 やつはノリノリでゲームをやった。[l][r]
 ゲーム実況をすると有名youtuberになった[l][r]
@@ -38,12 +38,14 @@
 
 *tag_run
 
-[bg storage=run.jpg time=500]
+[bg storage=cry.jpg time=500]
 
 [cm]
 リズム天国が気になる。[l][r]
-ひさしぶりにリズム天国がやりたい・・・[r]
-てんてんてん
+ひさしぶりにリズム天国がやりたい・・・[l][r]
+あぁ、[l][r]
+ああぁ、[l][r]
+リズム天国ってどんなゲームだっけ。[l][r]
 【 BAD END 】[l][cm]
 
 [jump target=*start]
