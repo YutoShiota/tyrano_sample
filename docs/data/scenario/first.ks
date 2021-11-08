@@ -1,23 +1,25 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="リズム天国するかウイイレやるかで悩むやつ"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「リズム天国するかウイイレやるかで悩むやつ」[l][r]
 
-メロスは激怒した。[l][r]
+最近リズム天国を買った。[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+ウイイレもスマホにダウンロードした[l][r]
 
-(中略)[l][r]
+どっちやろうかなぁ。[l][r]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
+(2時間悩む)[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+ああ、何もかも、ばかばかしい。私は、優柔不断だ。どうとも、勝手にするがよい。[l][r]
+やつは...[l][r]
+
+[link target=*tag_sleep] →リズム天国をする [endlink][r]
+[link target=*tag_run] →ウイイレやる [endlink][r]
 [s]
 
 *tag_sleep
@@ -26,10 +28,11 @@
 
 [bg storage=sleep.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+やつはノリノリでゲームをやった。[l][r]
+ゲーム実況をすると有名youtuberになった[l][r]
+リズム天国やってよかった。[r]
 
-【 BAD END 】[l][cm]
+【 GOOD END 】[l][cm]
 
 [jump target=*start]
 
@@ -38,9 +41,9 @@
 [bg storage=run.jpg time=500]
 
 [cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
-
-【 GOOD END 】[l][cm]
+リズム天国が気になる。[l][r]
+ひさしぶりにリズム天国がやりたい・・・[r]
+てんてんてん
+【 BAD END 】[l][cm]
 
 [jump target=*start]
